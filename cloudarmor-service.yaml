@@ -3,7 +3,7 @@ kind: Service
 metadata:
   labels:
     app: my-app
-  name: service-foo
+  name: service-neg
   annotations:
     beta.cloud.google.com/backend-config: '{"ports": {"80":"backend-config"}}'
     cloud.google.com/neg: '{"ingress": true}'

@@ -4,7 +4,8 @@ metadata:
   labels:
     app: my-app
   name: service-foo
-  annotations: beta.cloud.google.com/backend-config: '{"ports": {"80":"backend-config"}}'
+  annotations: 
+    beta.cloud.google.com/backend-config: '{"ports": {"80":"backend-config"}}'
 spec:
   ports:
   - port: 80
