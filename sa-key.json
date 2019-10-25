@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "multi-region-gke-test",
+  "private_key_id": "e99a41e293460be1bda6d1ff3971184a92e7220a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNPgzy2FNFAy5N\ne2LoUFkALbeq61rBFmzu3OtQ0E36az5dgGw3peL0nsl3BkvUs2Cy4WqRt9rMnJNI\nPioCiEBNMu4x0D6G5vy3jTRErxx4ybUgoAV9PavWPSXILihiqf1d0+JghqlfwDCE\nsVARS1Et9mBgktwHP8Unk9uLvhd0T6KCLVxy38JlgyGy+qNAy8ma2tk/JGX8N0q3\nXDnANPtZvWZGrXKEIHWMx+JDtNei6ljAx6KfQ5VY3CaXhjYHh9IoayoIck82iOmA\nheGSfvyfRTJ/gfCZibQqb55XzyIE0+fFhCuZBttJNY50oszSAW4f9Qu4Sfxd6HzM\nTMzJMtIJAgMBAAECggEAAiliZQdivyIUsYO4a7Z27YHNwqrWapy0GoLwpon/HEFX\nZ5Az85UXchifChYio9Oc0918bBr53rhSc8sV0a+CL932tMca9XxG0p8V2xhWDi6f\nrf+Jd0N4RRohRP25dqqQLNYPtxEMBSJm0Gr2qyv2J6wF4VaCoz/ocW2E/TCMGjE8\nrKfpGyZoGhs8zjwedOOyg0NOOdj42nt460K0HkFrhcccRW6fDEI6Y5QdKAXmxMYO\nPKbIQuPZUET11JcJt0E+fGJme8o6Zy1DUlHt6BG4e918Jzc8MO0dcne9jpGggBQE\nnqd/dS7p33ruPNoIbU4E9D1QS7/qG7vvec3V5e2D5QKBgQD80LjMi1hukDQ3x148\nJiJamC0mekwJ6bl3XMXVPRVN70n7OVN5LWHfNAUknjjcXGDj+c/Ugra0JOre3xN/\noMgTJoRaOkoK22M3SKK3hAOfRTmAxwtO6krqanHTSbvRcZ9aYbBctTAw5CH2I0fC\nPEswVJucPxS5XYk97crjyuJVzQKBgQDP0+pnpDWMM8G72UfFZbU+z5B+4bNKMbXF\nuviJDx3nwY7wFvEFtxIqfgh4zCCLTCpSTSBy52GBAiScK3hBR7PhoxdacaMMqqO0\nCrt9Il6aDTE9MJPHu45jirNUca5o4mGiMCOBfosT8xqPlxLNQ6ywHWZnMqmtkwn1\nQNxUc3OxLQKBgQC7+w6NuMbmXv8Uwn9FRi2hIynfRGwpqsonAKpxJdwjeNuPm05/\n+cieSHXShntNDrtUiDmKkC79v72MPl6nNYvPAYLD/Dd13y7kunOS9Owkjzp0kIvN\n/9P4fXFpY5ft4ghVEfIq3OaaU+cUt6LxwBdANokGIrlsIyqbC6civYaRuQKBgEXv\nxEPYSITDrgAu4C4XSeS3KKLqBNGE5OyDPLuysJea1SUKM1V/A8f03Zj46EK4AM3t\nUmwYXQFy3SsIndEp9eiKX4N6FipfCfO+YNV9SWSB5/31aOWfwgzRUgOqtcxp0f0o\nQeqD0P2Ho3qKljMpAOXLHvi/XcYhYwp7JynsKBSJAoGAJPuYGIs/psZUmLhthXOx\noVkhrhZSIBmBE0dptQlP7vEaKkCdf7QnlQDhWft8AGdYX6crfKSaXAPB6OHUGc/7\nnNMqpEhSsQuASFMpiCemhSgY5VVs7/m9QXv0lVu4UbH08HnroVUg5LKKTkw6ktMU\n+IRamqBb/YqudYUDu/2eUXU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-gkehub-connect@multi-region-gke-test.iam.gserviceaccount.com",
+  "client_id": "102903302585529326803",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-gkehub-connect%40multi-region-gke-test.iam.gserviceaccount.com"
+}
